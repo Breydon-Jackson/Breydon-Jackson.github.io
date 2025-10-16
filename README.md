@@ -6,4 +6,7 @@ I am a passionate and driven cybersecurity graduate from the University of North
 My interests lie in threat detection, incident response, and automation. I’ve worked with tools like Wireshark, Metasploit, Kali Linux, and SIEM platforms, and I’m comfortable coding in Python, BASH, and SQL. Whether it’s leading senior IT projects, giving presentations on tools like Mimikatz, or troubleshooting complex systems, I thrive in environments that demand critical thinking and collaboration.
 
 This portfolio showcases my technical projects, hands-on labs, and continuous learning journey—from penetration testing exercises to cloud service deployments on AWS, Azure, and Google Cloud.
-##OBJECTIVES
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
