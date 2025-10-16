@@ -36,19 +36,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 
 ### Seed Labs
-| Lab                              | Link          |
-|----------------------------------|---------------|
-  Local DNS Attack Lab             | <a href="https://github.com/Breydon-Jackson/Local_DNS_Attack_Lab/tree/main"> Click here </a>               |
-  VPN Lab                          |               |
-  XSS Attack Lab                   |               |
-  SQL Injection Attack Lab         |               |
-  Packet Sniffing and Spoofing Lab |               |
-  TCP Attack Lab                   |               |
-  ARP Cache Poisoning Attack Lab   |               |
-  Buffer Overflow Vulnerability Lab|               |
+- <a href="https://github.com/Breydon-Jackson/Local_DNS_Attack_Lab/tree/main"> Local DNS Attack Lab
+- <a href="www.google.com"> VPN Lab
+- <a href="www.google.com"> XSS Attack Lab
+- <a href="www.google.com"> SQL Injection Attack Lab
+- <a href="www.google.com"> Packet Sniffing and Spoofing Lab
+- <a href="www.google.com"> TCP Attack Lab
+- <a href="www.google.com"> ARP Cache Poisoning Attack Lab
+- <a href="www.google.com"> Buffer Overflow Vulnerability Lab
 
-
-### Computer Policies and Disaster Preparedness
-| Project                          | Link          |
-|----------------------------------|---------------|
-| Create Cybersecurity Policy      |               |
+### TryHackMe
