@@ -32,3 +32,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   
 </div>
+
+## Projects
+
+### Seed Labs
+| Lab                              | Link          |
+|----------------------------------|---------------|
+  Local DNS Attack Lab             |               |
+  VPN Lab                          |               |
+  XSS Attack Lab                   |               |
+  SQL Injection Attack Lab         |               |
+  Packet Sniffing and Spoofing Lab |               |
+  TCP Attack Lab                   |               |
+  ARP Cache Poisoning Attack Lab   |               |
+  Buffer Overflow Vulnerability Lab|               |
+
+
+### Computer Forensics
+
+
+### Computer Policies and Disaster Preparedness
