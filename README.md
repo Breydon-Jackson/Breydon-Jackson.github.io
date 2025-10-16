@@ -37,7 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Seed Labs
 - <a href="https://github.com/Breydon-Jackson/Local_DNS_Attack_Lab/tree/main"> Local DNS Attack Lab
-- <a href="www.google.com"> VPN Lab
+- <a href="https://github.com/Breydon-Jackson/VPN_Lab"> VPN Lab
 - <a href="www.google.com"> XSS Attack Lab
 - <a href="www.google.com"> SQL Injection Attack Lab
 - <a href="www.google.com"> Packet Sniffing and Spoofing Lab
