@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Breydon-Jackson/VPN_Lab"> VPN Lab
 - <a href="www.google.com"> XSS Attack Lab
 - <a href="www.google.com"> SQL Injection Attack Lab
-- <a href="www.google.com"> Packet Sniffing and Spoofing Lab
+- <a href="https://github.com/Breydon-Jackson/Packet_Sniffing_and_Spoofing/tree/main"> Packet Sniffing and Spoofing Lab
 - <a href="www.google.com"> TCP Attack Lab
 - <a href="www.google.com"> ARP Cache Poisoning Attack Lab
 - <a href="www.google.com"> Buffer Overflow Vulnerability Lab
