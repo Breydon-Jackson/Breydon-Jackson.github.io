@@ -14,11 +14,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 ### Network
 <div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
-<!--
+
 ### SIEM
--->
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Forensics
+<div>
+  <img src="https://img.shields.io/badge/-Autopsy-003366?style=for-the-badge&" />
+</div>
 
 ## Skills
 | Skill                                         | Associated Project         |
